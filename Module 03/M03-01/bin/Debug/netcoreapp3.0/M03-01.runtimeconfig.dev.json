@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/tesfatsionshiferaw/.dotnet/store/|arch|/|tfm|",
+      "/Users/tesfatsionshiferaw/.nuget/packages"
+    ]
+  }
+}

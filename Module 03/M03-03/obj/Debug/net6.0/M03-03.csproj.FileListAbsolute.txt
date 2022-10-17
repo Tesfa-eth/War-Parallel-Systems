@@ -1,0 +1,15 @@
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/bin/Debug/net6.0/M03-03
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/bin/Debug/net6.0/M03-03.deps.json
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/bin/Debug/net6.0/M03-03.runtimeconfig.json
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/bin/Debug/net6.0/M03-03.dll
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/bin/Debug/net6.0/M03-03.pdb
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/M03-03.csproj.AssemblyReference.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/M03-03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/M03-03.AssemblyInfoInputs.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/M03-03.AssemblyInfo.cs
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/M03-03.csproj.CoreCompileInputs.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/M03-03.dll
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/refint/M03-03.dll
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/M03-03.pdb
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/M03-03.genruntimeconfig.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-03/obj/Debug/net6.0/ref/M03-03.dll

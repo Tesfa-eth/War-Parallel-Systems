@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="M03-01" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-01.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-01.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="war1.txt" t="Include" />
+        <e p="war10.txt" t="Include" />
+        <e p="war2.txt" t="Include" />
+        <e p="war3.txt" t="Include" />
+        <e p="war4.txt" t="Include" />
+        <e p="war5.txt" t="Include" />
+        <e p="war6.txt" t="Include" />
+        <e p="war7.txt" t="Include" />
+        <e p="war8.txt" t="Include" />
+        <e p="war9.txt" t="Include" />
+      </e>
+      <e p="M03-02" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-02.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-02.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="war1.txt" t="Include" />
+        <e p="war10.txt" t="Include" />
+        <e p="war2.txt" t="Include" />
+        <e p="war3.txt" t="Include" />
+        <e p="war4.txt" t="Include" />
+        <e p="war5.txt" t="Include" />
+        <e p="war6.txt" t="Include" />
+        <e p="war7.txt" t="Include" />
+        <e p="war8.txt" t="Include" />
+        <e p="war9.txt" t="Include" />
+      </e>
+      <e p="M03-03" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-03.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-03.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="war1.txt" t="Include" />
+        <e p="war10.txt" t="Include" />
+        <e p="war2.txt" t="Include" />
+        <e p="war3.txt" t="Include" />
+        <e p="war4.txt" t="Include" />
+        <e p="war5.txt" t="Include" />
+        <e p="war6.txt" t="Include" />
+        <e p="war7.txt" t="Include" />
+        <e p="war8.txt" t="Include" />
+        <e p="war9.txt" t="Include" />
+      </e>
+      <e p="M03-04" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-04.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-04.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="war1.txt" t="Include" />
+        <e p="war10.txt" t="Include" />
+        <e p="war2.txt" t="Include" />
+        <e p="war3.txt" t="Include" />
+        <e p="war4.txt" t="Include" />
+        <e p="war5.txt" t="Include" />
+        <e p="war6.txt" t="Include" />
+        <e p="war7.txt" t="Include" />
+        <e p="war8.txt" t="Include" />
+        <e p="war9.txt" t="Include" />
+      </e>
+      <e p="M03-05" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-05.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-05.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="war1.txt" t="Include" />
+        <e p="war10.txt" t="Include" />
+        <e p="war2.txt" t="Include" />
+        <e p="war3.txt" t="Include" />
+        <e p="war4.txt" t="Include" />
+        <e p="war5.txt" t="Include" />
+        <e p="war6.txt" t="Include" />
+        <e p="war7.txt" t="Include" />
+        <e p="war8.txt" t="Include" />
+        <e p="war9.txt" t="Include" />
+      </e>
+      <e p="M03-06" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-06.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-06.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="war1.txt" t="Include" />
+        <e p="war10.txt" t="Include" />
+        <e p="war2.txt" t="Include" />
+        <e p="war3.txt" t="Include" />
+        <e p="war4.txt" t="Include" />
+        <e p="war5.txt" t="Include" />
+        <e p="war6.txt" t="Include" />
+        <e p="war7.txt" t="Include" />
+        <e p="war8.txt" t="Include" />
+        <e p="war9.txt" t="Include" />
+      </e>
+      <e p="M03-07" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-07.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-07.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="war1.txt" t="Include" />
+        <e p="war10.txt" t="Include" />
+        <e p="war2.txt" t="Include" />
+        <e p="war3.txt" t="Include" />
+        <e p="war4.txt" t="Include" />
+        <e p="war5.txt" t="Include" />
+        <e p="war6.txt" t="Include" />
+        <e p="war7.txt" t="Include" />
+        <e p="war8.txt" t="Include" />
+        <e p="war9.txt" t="Include" />
+      </e>
+      <e p="M03-08" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-08.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-08.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="M03-09" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-09.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-09.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="M03-10" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="M03-10.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="M03-10.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Module3.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Module3.827888464.00" t="ExcludeRecursive" />
+  </component>
+</project>

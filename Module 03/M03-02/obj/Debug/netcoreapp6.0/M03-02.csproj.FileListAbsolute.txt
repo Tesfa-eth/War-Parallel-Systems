@@ -1,0 +1,16 @@
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/bin/Debug/netcoreapp6.0/war1.txt
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/bin/Debug/netcoreapp6.0/M03-02
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/bin/Debug/netcoreapp6.0/M03-02.deps.json
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/bin/Debug/netcoreapp6.0/M03-02.runtimeconfig.json
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/bin/Debug/netcoreapp6.0/M03-02.dll
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/bin/Debug/netcoreapp6.0/M03-02.pdb
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/M03-02.csproj.AssemblyReference.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/M03-02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/M03-02.AssemblyInfoInputs.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/M03-02.AssemblyInfo.cs
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/M03-02.csproj.CoreCompileInputs.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/M03-02.dll
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/refint/M03-02.dll
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/M03-02.pdb
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/M03-02.genruntimeconfig.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-02/obj/Debug/netcoreapp6.0/ref/M03-02.dll

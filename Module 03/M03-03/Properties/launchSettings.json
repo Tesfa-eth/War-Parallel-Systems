@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "M03-03": {
+      "commandName": "Project",
+      "commandLineArgs": "\"war1.txt\" \"war2.txt\" \"war3.txt\""
+    }
+  }
+}

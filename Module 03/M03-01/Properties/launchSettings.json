@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "M03-01": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Profiles\\toivcs\\Desktop\\RIT\\CSCI 251\\src\\Module 03\\M03-01\\war1.txt\""
+    }
+  }
+}

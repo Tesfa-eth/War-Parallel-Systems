@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b70221e-aee2-4e4f-8c5d-0f8cf4290a0c" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Module3" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/M03-02/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/M03-01/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/M03-09/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/M03-03/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/M03-04/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/M03-10/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/M03-05/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/M03-06/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/M03-08/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/M03-07/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/M03-01/Program.cs" />
+        <option value="$PROJECT_DIR$/M03-04/Program.cs" />
+        <option value="$PROJECT_DIR$/M03-01/war1.txt" />
+        <option value="$PROJECT_DIR$/M03-01/war2.txt" />
+        <option value="$PROJECT_DIR$/M03-01/war3.txt" />
+        <option value="$PROJECT_DIR$/M03-01/war4.txt" />
+        <option value="$PROJECT_DIR$/M03-01/war5.txt" />
+        <option value="$PROJECT_DIR$/M03-02/Program.cs" />
+        <option value="$PROJECT_DIR$/M03-03/Program.cs" />
+        <option value="$PROJECT_DIR$/M03-05/Program.cs" />
+        <option value="$PROJECT_DIR$/M03-07/Program.cs" />
+        <option value="$PROJECT_DIR$/M03-06/Program.cs" />
+        <option value="$PROJECT_DIR$/M03-08/Program.cs" />
+        <option value="$PROJECT_DIR$/M03-09/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QN58k3wBE6vbmvpq7GoVHnzm7z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="ToolWindowFavorites.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Module3.sln" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager" selected=".NET Project.M03-10">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M03-06" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/M03-06/bin/Debug/netcoreapp3.0/M03-06.dll" />
+      <option name="PROGRAM_PARAMETERS" value="war1.txt war2.txt war3.txt war4.txt war5.txt war6.txt war7.txt war8.txt war9.txt war10.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M03-06/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/M03-06/M03-06.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M03-07" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/M03-07/bin/Debug/netcoreapp3.0/M03-07.dll" />
+      <option name="PROGRAM_PARAMETERS" value="war1.txt war2.txt war3.txt war4.txt war5.txt war6.txt war7.txt war8.txt war9.txt war10.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M03-07/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/M03-07/M03-07.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M03-08" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/M03-08/bin/Debug/netcoreapp3.0/M03-08.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M03-08/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/M03-08/M03-08.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M03-09" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/M03-09/bin/Debug/netcoreapp3.0/M03-09.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M03-09/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/M03-09/M03-09.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M03-10" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/M03-10/bin/Debug/netcoreapp3.0/M03-10.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/M03-10/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/M03-10/M03-10.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.M03-06" />
+      <item itemvalue=".NET Project.M03-07" />
+      <item itemvalue=".NET Project.M03-08" />
+      <item itemvalue=".NET Project.M03-09" />
+      <item itemvalue=".NET Project.M03-10" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.M03-10" />
+        <item itemvalue=".NET Project.M03-09" />
+        <item itemvalue=".NET Project.M03-08" />
+        <item itemvalue=".NET Project.M03-07" />
+        <item itemvalue=".NET Project.M03-06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b70221e-aee2-4e4f-8c5d-0f8cf4290a0c" name="Default" comment="" />
+      <created>1516902056119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516902056119</updated>
+      <workItem from="1516902057552" duration="1173000" />
+      <workItem from="1516970643736" duration="102000" />
+      <workItem from="1516971046101" duration="1383000" />
+      <workItem from="1517230149847" duration="3492000" />
+      <workItem from="1517402011416" duration="36000" />
+      <workItem from="1517854338841" duration="174000" />
+      <workItem from="1567598057163" duration="4404000" />
+      <workItem from="1567603311684" duration="2482000" />
+      <workItem from="1567781231954" duration="1273000" />
+      <workItem from="1568030140272" duration="642000" />
+      <workItem from="1568040569897" duration="3121000" />
+      <workItem from="1568201672154" duration="1277000" />
+      <workItem from="1568205757001" duration="619000" />
+      <workItem from="1568211304465" duration="1931000" />
+      <workItem from="1568387454994" duration="27000" />
+      <workItem from="1579613225777" duration="1518000" />
+      <workItem from="1579720520575" duration="6000" />
+      <workItem from="1579877661393" duration="704000" />
+      <workItem from="1580084576377" duration="584000" />
+      <workItem from="1580127730042" duration="3533000" />
+      <workItem from="1580147959568" duration="3162000" />
+      <workItem from="1580151473405" duration="8000" />
+      <workItem from="1580309907958" duration="2346000" />
+      <workItem from="1580319960300" duration="2271000" />
+      <workItem from="1580912737682" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="576" y="316" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580084741681">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="0" y="0" width="1280" height="800" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode" timestamp="1580311040954">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="1280" height="800" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode/0.0.1280.800@0.0.1280.800" timestamp="1580311040954" />
+    <state x="576" y="316" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.969@0.23.1680.969" timestamp="1580084741681" />
+    <state x="878" y="524" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1359@0.23.2560.1359" timestamp="1579613308306" />
+    <state width="1638" height="222" key="GridCell.Tab.0.bottom" timestamp="1580313051876">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1280" height="369" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1580322796477">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1280" height="369" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.800@0.0.1280.800" timestamp="1580322796477" />
+    <state width="1358" height="396" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1280.719@0.23.1280.719" timestamp="1579720366648" />
+    <state width="1638" height="222" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580313051876" />
+    <state width="1638" height="468" key="GridCell.Tab.0.bottom/0.23.1680.969@0.23.1680.969" timestamp="1580084975599" />
+    <state width="1638" height="468" key="GridCell.Tab.0.bottom/0.23.2560.1359@0.23.2560.1359" timestamp="1580126745835" />
+    <state width="1638" height="222" key="GridCell.Tab.0.center" timestamp="1580313051875">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1280" height="369" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1580322796476">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1280" height="369" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.800@0.0.1280.800" timestamp="1580322796476" />
+    <state width="1358" height="396" key="GridCell.Tab.0.center.inPresentationMode/0.23.1280.719@0.23.1280.719" timestamp="1579720366648" />
+    <state width="1638" height="222" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580313051875" />
+    <state width="1638" height="468" key="GridCell.Tab.0.center/0.23.1680.969@0.23.1680.969" timestamp="1580084975598" />
+    <state width="1638" height="468" key="GridCell.Tab.0.center/0.23.2560.1359@0.23.2560.1359" timestamp="1580126745833" />
+    <state width="1638" height="222" key="GridCell.Tab.0.left" timestamp="1580313051875">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1280" height="369" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1580322796476">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1280" height="369" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.800@0.0.1280.800" timestamp="1580322796476" />
+    <state width="1358" height="396" key="GridCell.Tab.0.left.inPresentationMode/0.23.1280.719@0.23.1280.719" timestamp="1579720366644" />
+    <state width="1638" height="222" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580313051875" />
+    <state width="1638" height="468" key="GridCell.Tab.0.left/0.23.1680.969@0.23.1680.969" timestamp="1580084975597" />
+    <state width="1638" height="468" key="GridCell.Tab.0.left/0.23.2560.1359@0.23.2560.1359" timestamp="1580126745832" />
+    <state width="1638" height="222" key="GridCell.Tab.0.right" timestamp="1580313051876">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1280" height="369" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1580322796476">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1280" height="369" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.800@0.0.1280.800" timestamp="1580322796476" />
+    <state width="1358" height="396" key="GridCell.Tab.0.right.inPresentationMode/0.23.1280.719@0.23.1280.719" timestamp="1579720366648" />
+    <state width="1638" height="222" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580313051876" />
+    <state width="1638" height="468" key="GridCell.Tab.0.right/0.23.1680.969@0.23.1680.969" timestamp="1580084975598" />
+    <state width="1638" height="468" key="GridCell.Tab.0.right/0.23.2560.1359@0.23.2560.1359" timestamp="1580126745833" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

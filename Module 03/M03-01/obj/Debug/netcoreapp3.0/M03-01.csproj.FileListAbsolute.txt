@@ -1,0 +1,87 @@
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/M03-01
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/M03-01.deps.json
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.json
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.dev.json
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/M03-01.dll
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/M03-01.pdb
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/obj/Debug/netcoreapp3.0/M03-01.csprojAssemblyReference.cache
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfoInputs.cache
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfo.cs
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/obj/Debug/netcoreapp3.0/M03-01.dll
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/obj/Debug/netcoreapp3.0/M03-01.pdb
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war1.txt
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war2.txt
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war3.txt
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war4.txt
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war5.txt
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war10.txt
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war6.txt
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war7.txt
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war8.txt
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/inclass/Module3/M03-01/bin/Debug/netcoreapp3.0/war9.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war10.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war6.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war7.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war8.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war9.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war1.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war2.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war3.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war4.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war5.txt
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.deps.json
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.json
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.dev.json
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.dll
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.pdb
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.csprojAssemblyReference.cache
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfoInputs.cache
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfo.cs
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.dll
+/Users/jsb/Dropbox/Teaching/2195/CSCI.251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.pdb
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/war1.txt
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.exe
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.deps.json
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.json
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.dev.json
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.dll
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.pdb
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.csproj.AssemblyReference.cache
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.GeneratedMSBuildEditorConfig.editorconfig
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfoInputs.cache
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfo.cs
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.csproj.CoreCompileInputs.cache
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.dll
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.pdb
+D:/Profiles/toivcs/Desktop/RIT/CSCI 251/src/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.genruntimeconfig.cache
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/bin/Debug/netcoreapp3.0/war1.txt
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.deps.json
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.json
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.dev.json
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.dll
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.pdb
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.csproj.AssemblyReference.cache
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfoInputs.cache
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfo.cs
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.csproj.CoreCompileInputs.cache
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.dll
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.pdb
+/Users/tesfatsionshiferaw/Downloads/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.genruntimeconfig.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/bin/Debug/netcoreapp3.0/war1.txt
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.deps.json
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.json
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.runtimeconfig.dev.json
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.dll
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/bin/Debug/netcoreapp3.0/M03-01.pdb
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.csproj.AssemblyReference.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfoInputs.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.AssemblyInfo.cs
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.csproj.CoreCompileInputs.cache
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.dll
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.pdb
+/Users/tesfatsionshiferaw/Desktop/RIT/Classes/Conc. Par and Dist. systems/Module 03/M03-01/obj/Debug/netcoreapp3.0/M03-01.genruntimeconfig.cache
